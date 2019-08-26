@@ -1,7 +1,7 @@
 Open main1.py. Before running it, what do you expect this program to do? 
-
+I expect the code to greet me and then prompt me to answer "What is my favorite color?"
 Now right click on the window and select “Run Python File in Terminal”. Click in the bottom panel, and answer the question. Describe what happened. 
-
+I entered a response and hit enter. The code then provided me with a link of sorts. Not sure if this was supposed to happen?
 What do you think the program did with what you typed?
 
 
