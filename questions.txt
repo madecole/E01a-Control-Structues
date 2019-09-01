@@ -69,9 +69,9 @@ Make that change and run the program again. To end any Python program, you can t
 Open main9.py. What is happening on line 12? 
 "If the input is not red then run this loop". The loop will count how many tries it takes to guess the correct color.
 What is the purpose of “count”? 
-
+Count records how many tries it takes the user to guess the correct color. Count starts at zero and 1 is added after each incorrect input.
 What is happening on line 22? 
-
+The program prints how many incorrect guesses were made. 
 Run the program.
 
 
@@ -79,4 +79,4 @@ Run the program.
 
 Commit your changes and push them back to the repository. 
 
-Did you do the extra credit?
+Did you do the extra credit? Yes
